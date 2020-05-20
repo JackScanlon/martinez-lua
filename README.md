@@ -7,4 +7,4 @@
  - Splaytree
  - Tinyqueue
  - Martinez
- - Orient2d (incl. C side math)
+ - Orient2d (incl. C side env)
